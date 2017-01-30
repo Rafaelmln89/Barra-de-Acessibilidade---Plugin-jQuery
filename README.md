@@ -51,9 +51,9 @@ Como o plugin é baseado em jQuery é necessário adicionar as bibliotecas
 <script type="text/javascript" src="./js/jquery.min.js"></script>
 <script type="text/javascript" src="./js/rafaelmln_acessibilidade.js"></script>
 <script type="text/javascript">
-		$(document).ready(function()
-		{
-    //seu código aqui
-    }
+	$(document).ready(function()
+	{
+		//seu código aqui
+    	}
 </script>    
 ```
