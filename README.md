@@ -54,6 +54,6 @@ Como o plugin é baseado em jQuery é necessário adicionar as bibliotecas
 	$(document).ready(function()
 	{
 		//seu código aqui
-    	}
+	}
 </script>    
 ```
